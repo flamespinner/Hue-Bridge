@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@twurple/api": "^5.0.13",
+    "@twurple/auth": "^5.0.13",
+    "@twurple/chat": "^5.0.13",
+    "@twurple/eventsub": "^5.0.13",
+    "@twurple/eventsub-ngrok": "^5.0.13",
+    "@twurple/pubsub": "^5.0.13",
+    "axios": "^0.25.0",
+    "dotenv": "^14.2.0",
+    "huejay": "^0.18.0",
+    "node-hue-api": "^5.0.0-beta.11",
+    "nodemon": "^2.0.15",
+    "pkg": "^5.5.2"
+  }
+}
